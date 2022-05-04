@@ -48,11 +48,11 @@ a {
 }
 
 button {
-  font-family: 'Source Code Pro', monospace;
+  font-family: 'Wire One', sans-serif;
   border: solid 2px black;
-  padding: 15px;
+  padding: 9px;
   text-align: center;
-  font-size: 20px;
+  font-size: 30px;
   border-radius: 5px;
 }
 
@@ -62,7 +62,7 @@ button:hover {
 }
 
 p {
-  font-style: thin;
+  font-family: 'Bodoni Moda', serif;
   margin: 20px;
   padding: 15px;
   border: solid dashed salmon;
